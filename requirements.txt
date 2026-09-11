@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pillow
+numpy
+torch
+torchvision
+transformers
+safetensors
